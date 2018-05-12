@@ -1,4 +1,8 @@
 _repo: Giovanni-Boccaccio-a-Biographical-Study_46722
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46722-h/images/cover.jpg
 creator:
   author:
     agent_name: Hutton, Edward
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3315
     wikipedia: http://en.wikipedia.org/wiki/Edward_Hutton_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46722#Giovanni-Boccaccio-a-Biographical-Study
 gutenberg_issued: '2014-08-29'
 gutenberg_type: Text
 identifiers:
